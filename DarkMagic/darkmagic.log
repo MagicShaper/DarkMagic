@@ -1,0 +1,67 @@
+[APP] 2025/12/31 12:43:31 ----------------------------------------PROGRAM STARTING----------------------------------------
+[APP] 2025/12/31 12:45:14 DOMAIN: https://www.youtube.com/ => 200
+[APP] 2025/12/31 12:46:04 EKRAN GORUNTUSU ALINDI. | DOSYA ADI: www_youtube_com.png
+[APP] 2025/12/31 12:46:05 DOMAIN: https://tryhackme.com/ => 200
+[APP] 2025/12/31 12:46:57 EKRAN GORUNTUSU ALINDI. | DOSYA ADI: tryhackme_com.png
+[APP] 2025/12/31 12:46:58 DOMAIN: https://obsproject.com/1826753t7812537651t239786127367 => 404
+[APP] 2025/12/31 12:47:45 EKRAN GORUNTUSU ALINDI. | DOSYA ADI: obsproject_com.png
+[APP] 2025/12/31 12:47:46 GEÇERSİZ DOMAIN / HTTP HATASI | URL: https://obs1234project.com/
+[APP] 2025/12/31 12:47:46 DOMAIN: https://hackviser.com/ => 200
+[APP] 2025/12/31 12:48:35 EKRAN GORUNTUSU ALINDI. | DOSYA ADI: hackviser_com.png
+[APP] 2025/12/31 12:48:36 DOMAIN: https://tr.wikipedia.org/ => 200
+[APP] 2025/12/31 12:49:23 EKRAN GORUNTUSU ALINDI. | DOSYA ADI: tr_wikipedia_org.png
+[APP] 2025/12/31 12:49:24 DOMAIN: https://google.com/ => 200
+[APP] 2025/12/31 12:50:12 EKRAN GORUNTUSU ALINDI. | DOSYA ADI: google_com.png
+[APP] 2025/12/31 12:50:12 ----------------------------------------PROGRAM ENDING----------------------------------------
+
+[APP] 2025/12/31 12:58:04 ----------------------------------------PROGRAM STARTING----------------------------------------
+[APP] 2025/12/31 12:58:14 DOMAIN: http://us3xsdrhmhk4h3bkuq7ttkp6pocs4726esycpgwtogrpu3nfjj6eroqd.onion/  => 502
+[APP] 2025/12/31 12:58:14 BADE GATEWAY 502
+[APP] 2025/12/31 12:58:16 GEÇERSİZ DOMAIN / HTTP HATASI | URL: http://blkhatjxlrvc5aevqzz5t6kxldayog6jlx5h7glnu44euzongl4fh5ad.onion/
+[APP] 2025/12/31 12:58:18 DOMAIN: http://vscvkdcnjpwkdumrrnxsfhmx5shkztqzehnkvelpfrzj7sqkra7bcjid.onion/  => 403
+[APP] 2025/12/31 12:59:07 EKRAN GORUNTUSU ALINDI. | DOSYA ADI: vscvkdcnjpwkdumrrnxsfhmx5shkztqzehnkvelpfrzj7sqkra7bcjid_onion.png
+[APP] 2025/12/31 12:59:10 DOMAIN: http://btcx6jx725buaw2fahc4i5s5dq4oiorjzmr64henpwsrlzdqpkiv7wqd.onion/   => 403
+[APP] 2025/12/31 13:00:04 EKRAN GORUNTUSU ALINDI. | DOSYA ADI: btcx6jx725buaw2fahc4i5s5dq4oiorjzmr64henpwsrlzdqpkiv7wqd_onion.png
+[APP] 2025/12/31 13:00:09 DOMAIN: http://goodgkavjfqzqpshpj34q3tphzv5v6fspoqsjk7mdrduv6dihgeeb3id.onion/   => 404
+[APP] 2025/12/31 13:01:00 EKRAN GORUNTUSU ALINDI. | DOSYA ADI: goodgkavjfqzqpshpj34q3tphzv5v6fspoqsjk7mdrduv6dihgeeb3id_onion.png
+[APP] 2025/12/31 13:01:05 DOMAIN: http://hacker5cvt32oue2ex3scogrtdf5itblxqaioc6hl3fov63e4mswcqad.onion/   => 200
+[APP] 2025/12/31 13:01:57 EKRAN GORUNTUSU ALINDI. | DOSYA ADI: hacker5cvt32oue2ex3scogrtdf5itblxqaioc6hl3fov63e4mswcqad_onion.png
+[APP] 2025/12/31 13:02:03 DOMAIN: http://fullzcx37u3xcbngkgjqdldri4clckayfccs4ck5mzssvnbnfh2haeqd.onion/   => 200
+[APP] 2025/12/31 13:03:03 EKRAN GORUNTUSU ALINDI. | DOSYA ADI: fullzcx37u3xcbngkgjqdldri4clckayfccs4ck5mzssvnbnfh2haeqd_onion.png
+[APP] 2025/12/31 13:03:06 DOMAIN: http://stuffdo2micuw3krnffqxb7ldc66pkfsindy5stobovme5ywo4susoad.onion/   => 200
+[APP] 2025/12/31 13:03:59 EKRAN GORUNTUSU ALINDI. | DOSYA ADI: stuffdo2micuw3krnffqxb7ldc66pkfsindy5stobovme5ywo4susoad_onion.png
+[APP] 2025/12/31 13:04:02 GEÇERSİZ DOMAIN / HTTP HATASI | URL: http://447merpn3tvhxhtzknqap444sq7eqi5xpalr5hahtoxwyutpxsp36aqd.onion/  
+[APP] 2025/12/31 13:04:07 DOMAIN: http://forumup4mrybxqweysxevr3nfivmphrwq5tngxbhixwppzji34y454id.onion/  => 200
+[APP] 2025/12/31 13:05:04 EKRAN GORUNTUSU ALINDI. | DOSYA ADI: forumup4mrybxqweysxevr3nfivmphrwq5tngxbhixwppzji34y454id_onion.png
+[APP] 2025/12/31 13:05:05 DOMAIN: http://us3xsdrhmhk4h3bkuq7ttkp6pocs4726esycpgwtogrpu3nfjj6eroqd.onion/   => 502
+[APP] 2025/12/31 13:05:05 BADE GATEWAY 502
+[APP] 2025/12/31 13:05:11 DOMAIN: http://hellccam72ck3wajux74nordnnx6aoj5odun2bqnt6vggfz5nca4noyd.onion/   => 403
+[APP] 2025/12/31 13:06:07 EKRAN GORUNTUSU ALINDI. | DOSYA ADI: hellccam72ck3wajux74nordnnx6aoj5odun2bqnt6vggfz5nca4noyd_onion.png
+[APP] 2025/12/31 13:06:12 DOMAIN: http://darknet4fsxkcubfaj4jzj6bn453bl4cx7td3x3wz7y4tlnvlhglc5id.onion/  => 200
+[APP] 2025/12/31 13:07:13 EKRAN GORUNTUSU ALINDI. | DOSYA ADI: darknet4fsxkcubfaj4jzj6bn453bl4cx7td3x3wz7y4tlnvlhglc5id_onion.png
+[APP] 2025/12/31 13:07:15 DOMAIN: http://huomyxhpzx6mw74e6jfxtj5kmxov6wdmc62ylk6oc7feht5gntuawaqd.onion/   => 403
+[APP] 2025/12/31 13:08:06 EKRAN GORUNTUSU ALINDI. | DOSYA ADI: huomyxhpzx6mw74e6jfxtj5kmxov6wdmc62ylk6oc7feht5gntuawaqd_onion.png
+[APP] 2025/12/31 13:08:08 DOMAIN: http://hsquad7ikj4ejivl7e52rdfcvtgpqueqzu27wq273noeoi27y6kglxad.onion/   => 404
+[APP] 2025/12/31 13:08:55 EKRAN GORUNTUSU ALINDI. | DOSYA ADI: hsquad7ikj4ejivl7e52rdfcvtgpqueqzu27wq273noeoi27y6kglxad_onion.png
+[APP] 2025/12/31 13:08:58 DOMAIN: http://zb35cjmi43tt3y57hmyynxeg6ypq2vap6dgphpalhzluobu5lmceutid.onion/   => 404
+[APP] 2025/12/31 13:09:45 EKRAN GORUNTUSU ALINDI. | DOSYA ADI: zb35cjmi43tt3y57hmyynxeg6ypq2vap6dgphpalhzluobu5lmceutid_onion.png
+[APP] 2025/12/31 13:09:47 DOMAIN: http://xt7pob5s63px54amkdixuaepikessjfrn2ls32j73thq5iq35ek3evyd.onion/   => 404
+[APP] 2025/12/31 13:10:33 EKRAN GORUNTUSU ALINDI. | DOSYA ADI: xt7pob5s63px54amkdixuaepikessjfrn2ls32j73thq5iq35ek3evyd_onion.png
+[APP] 2025/12/31 13:10:35 DOMAIN: http://hrbps3siay4uh6st2pytb3dmv3yhs77oyadkuxr6xshdeoegcwzkdlid.onion/   => 404
+[APP] 2025/12/31 13:11:23 EKRAN GORUNTUSU ALINDI. | DOSYA ADI: hrbps3siay4uh6st2pytb3dmv3yhs77oyadkuxr6xshdeoegcwzkdlid_onion.png
+[APP] 2025/12/31 13:11:26 DOMAIN: http://45y464aesz3bgroomwcabfneivhnmywx5cuuk73n6i3rxec7u2nmvsyd.onion/   => 200
+[APP] 2025/12/31 13:12:15 EKRAN GORUNTUSU ALINDI. | DOSYA ADI: 45y464aesz3bgroomwcabfneivhnmywx5cuuk73n6i3rxec7u2nmvsyd_onion.png
+[APP] 2025/12/31 13:12:18 DOMAIN: http://a5wghnqocj2wnsrn4bgdapxme5ezxhpcbjeza7qqebufnfrqvqyu2iqd.onion/  => 200
+[APP] 2025/12/31 13:13:06 EKRAN GORUNTUSU ALINDI. | DOSYA ADI: a5wghnqocj2wnsrn4bgdapxme5ezxhpcbjeza7qqebufnfrqvqyu2iqd_onion.png
+[APP] 2025/12/31 13:13:06 ----------------------------------------PROGRAM ENDING----------------------------------------
+
+[APP] 2025/12/31 13:36:21 ----------------------------------------PROGRAM STARTING----------------------------------------
+[APP] 2025/12/31 13:37:28 ----------------------------------------PROGRAM STARTING----------------------------------------
+[APP] 2025/12/31 13:37:43 DOMAIN: http://us3xsdrhmhk4h3bkuq7ttkp6pocs4726esycpgwtogrpu3nfjj6eroqd.onion/  => 502
+[APP] 2025/12/31 13:37:43 BADE GATEWAY 502
+[APP] 2025/12/31 13:37:49 GEÇERSİZ DOMAIN / HTTP HATASI | URL: http://blkhatjxlrvc5aevqzz5t6kxldayog6jlx5h7glnu44euzongl4fh5ad.onion/
+[APP] 2025/12/31 13:37:51 DOMAIN: http://vscvkdcnjpwkdumrrnxsfhmx5shkztqzehnkvelpfrzj7sqkra7bcjid.onion/  => 403
+[APP] 2025/12/31 13:38:39 EKRAN GORUNTUSU ALINDI. | DOSYA ADI: vscvkdcnjpwkdumrrnxsfhmx5shkztqzehnkvelpfrzj7sqkra7bcjid_onion.png
+[APP] 2025/12/31 13:38:43 DOMAIN: http://btcx6jx725buaw2fahc4i5s5dq4oiorjzmr64henpwsrlzdqpkiv7wqd.onion/   => 403
+[APP] 2025/12/31 13:55:59 EKRAN GORUNTUSU ALINDI. | DOSYA ADI: btcx6jx725buaw2fahc4i5s5dq4oiorjzmr64henpwsrlzdqpkiv7wqd_onion.png
+[APP] 2025/12/31 13:56:00 DOMAIN: http://goodgkavjfqzqpshpj34q3tphzv5v6fspoqsjk7mdrduv6dihgeeb3id.onion/   => 404
