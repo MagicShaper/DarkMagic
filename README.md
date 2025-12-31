@@ -58,3 +58,6 @@ targets.yaml
 ## Uyarı
 
 Bu araç yalnızca izinli ve yasal hedeflerde kullanılmalıdır. Yetkisiz kullanım yasal sorumluluk doğurabilir.
+
+
+Programın kullanılışı ve kodların ne işe yaradığını öğrenmek için videoyu izleyebilirsiniz  =>  https://youtu.be/vGDvdpQ6DgE 
