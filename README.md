@@ -42,7 +42,7 @@ https://torproject.org
 
 Program çalıştıktan sonra hedef dosya adını gir:
 
-targets.txt
+targets.yaml
 
 ## Çıktılar
 
