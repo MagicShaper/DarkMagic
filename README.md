@@ -1,6 +1,6 @@
-# DarkMagic
+# DarkScraper
 
-DarkMagic, Tor ağı üzerinden verilen URL listesini kontrol eden ve erişilebilen sitelerin tam sayfa ekran görüntüsünü alan bir Go (Golang) uygulamasıdır.
+DarkScraper, Tor ağı üzerinden verilen URL listesini kontrol eden ve erişilebilen sitelerin tam sayfa ekran görüntüsünü alan bir Go (Golang) uygulamasıdır.
 
 Program çalışmaya başlamadan önce Tor bağlantısının aktif olup olmadığını kontrol eder. Tor aktif değilse program çalışmaz.
 
